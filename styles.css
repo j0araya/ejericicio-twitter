@@ -1,0 +1,19 @@
+.social__btn {
+	border: none;
+	background: none;
+	font-size: 1.2em;
+	color: tomato;
+}
+
+.social__btn:hover {
+	color: red;
+}
+
+.social__like--clicked {
+	color: green;
+	text-shadow: 0 1px 7px rgba(255,255,0,1);
+}
+
+.social__like--clicked:hover {
+	color: #61b94c;
+}
